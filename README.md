@@ -22,7 +22,7 @@ Imagine that there are applications and programs designed for Windows and window
 If you like this app and want to support its further development, you can donate via Vodafone Cash. 
 > **01040554352**
 ## 🖥️ Desktop Mode & Samsung DeX Support / دعم وضع سطح المكتب و DeX
-تم تصميم المفكرة وتطويرها بعناية لتعمل بسلاسة كاملة على بيئات سطح المكتب للأندرويد:
+تم تصميم عارض الصور وتطويرها بعناية لتعمل بسلاسة كاملة على بيئات سطح المكتب للأندرويد:
 - **Samsung DeX:** دعم كامل للتكبير والتصغير، والنوافذ المنبثقة، وقائمة السياق بلمسة واحدة.
 - **Android Desktop Mode / PrimeOS / Bliss OS:** متوافقة مع أنظمة سطح المكتب المتعددة للعمل بالماوس ولوحة المفاتيح بمرونة.
 - **Keyboard Shortcuts:** دعم الاختصارات الشهيرة مثل (`Ctrl+C`, `Ctrl+V`, `Ctrl+Z`, `Ctrl+F`).
@@ -30,4 +30,8 @@ If you like this app and want to support its further development, you can donate
 Designed and optimized for Android Desktop environments:
 - Fully compatible with **Samsung DeX** freeform windowing and right-click context menus.
 - Enhanced layout for mouse and keyboard productivity on Android Desktop interfaces.
+
+- M image viewer carefully designed and developed to run completely smoothly on Android desktop environments:
+
+Full support for zooming in and out, popups, and one-touch context menu.
 
